@@ -1,0 +1,5 @@
+const Registrarse = () => {
+
+}
+
+export {Registrarse}
